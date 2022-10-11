@@ -33,8 +33,6 @@
   background-color: transparent !important; 
   padding: 1em 2em; ; 
   font-size: 1.125rem; 
-
-
 }
 .cc-revoke:hover{
   -webkit-filter: blur(3px);
