@@ -6,7 +6,7 @@ Heading: Die Wunderblock Stiftung
 
 ----
 
-Featured: true
+Featured: false
 
 ----
 

@@ -32,7 +32,8 @@
     </ul>
     <ul>
         <li>
-            <a href="https://www.katharinagrosse.com/" class="studio-link f-sans">Studio Katahrina Grosse</a>
+            <a href="https://www.katharinagrosse.com/" class="studio-link f-sans" target="_blank">Studio Katahrina
+                Grosse</a>
         </li>
     </ul>
 
