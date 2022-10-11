@@ -8,7 +8,7 @@
     <title><?= $site->title()?></title>
 
 
-    <?= css(['assets/js/vendor/cookieconsent/cookieconsent.min.css','assets/css/reset.css','assets/css/index.css', 'assets/css/styles.css', 'assets/css/cookie-consent.css','assets/css/cookie-consent.css','@auto']) ?>
+    <?= css(['media/plugins/michnhokn/cookie-banner/cookie-modal.css','assets/css/reset.css','assets/css/index.css', 'assets/css/styles.css','@auto']) ?>
 
     <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
 </head>

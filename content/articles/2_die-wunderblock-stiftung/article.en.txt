@@ -6,7 +6,7 @@ Heading: The Wunderblock Foundation
 
 ----
 
-Featured: false
+Featured: true
 
 ----
 

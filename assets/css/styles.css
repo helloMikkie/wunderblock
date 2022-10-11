@@ -207,7 +207,38 @@ footer ul li {
 	height: 48px; 
 	line-height: 1; 
 }
+/* edit button */
 
+.edit-button{
+	position: fixed; 
+	bottom:0.5em; 
+	left:0.5em; 
+	font-family: "Prophet", sans-serif; 
+	background: transparent; 
+	border: none; 
+	cursor: pointer; 
+	text-transform: uppercase;
+}
+.edit-button:hover{
+	-webkit-filter: blur(3px);
+filter: blur(3px);
+}
+@media (min-width: 80rem) {
+
+	footer{
+		font-size: 1.125rem;
+		border: none;
+        position: fixed; 
+        left: 1em; 
+        bottom: 2rem; 
+		margin-bottom: 1em;
+    }
+	.edit-button{
+		left: 1.5em; 
+		bottom: 0.75em; 
+	}
+	
+}
 
 /* Article  */
 
@@ -299,15 +330,7 @@ footer ul li {
         margin-left: 360px; 
 		margin-top: 1em; 
     }
-	footer{
-		font-size: 1.125rem;
-		border: none;
-        position: fixed; 
-        left: 1em; 
-        bottom: 1rem; 
-		margin-bottom: 1em;
-    }
-	
+
 }
 
 /* Blocks */

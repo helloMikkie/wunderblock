@@ -6,7 +6,7 @@ Heading: Die Wunderblock Stiftung
 
 ----
 
-Featured: false
+Featured: true
 
 ----
 
@@ -14,7 +14,7 @@ Page-content: [{"content":{"location":"kirby","image":["wunderblock-view-01.jpg"
 
 ----
 
-Download: - be_kunst.pdf
+Download: 
 
 ----
 

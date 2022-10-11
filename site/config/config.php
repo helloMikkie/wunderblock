@@ -1,7 +1,7 @@
 <?php 
 
 return [
-		'debug' => true,
+		// 'debug' => true,
 		'smartypants' => true,
     	'markdown' => [
         'extra' => true

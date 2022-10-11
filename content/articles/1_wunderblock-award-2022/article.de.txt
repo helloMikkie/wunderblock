@@ -6,7 +6,7 @@ Heading: Sam Zamrik wird der erste Wunderblock Award zuerkannt
 
 ----
 
-Featured: false
+Featured: true
 
 ----
 

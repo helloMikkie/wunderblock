@@ -48,14 +48,28 @@
 
 
 
-
+    <button id="edit-cookie" class="edit-button"><?= t('cookie') ?></button>
 
 </footer>
-<script src="<?= url('assets/js/vendor/jquery-3.4.1.min.js') ?>"></script>
-<script src="<?= url('assets/js/vendor/cookieconsent/cookieconsent.min.js') ?>"></script>
-<script src="<?= url('assets/js/cookie-settings.js') ?>"></script>
+
 <script src="/assets/js/mouse-move.js"></script>
 <script src="/assets/js/script.js"></script>
+
+<?php snippet('cookie-modal', [
+  'assets' => true,
+  'features' => [
+    // 'mapbox' => 'custom.cookie-modal.mapbox',
+    'youtube' => 'custom.cookie-modal.youtube',
+    'vimeo' => 'custom.cookie-modal.vimeo'],
+]) ?>
+
+<script>
+document.querySelector('#edit-cookie').addEventListener('click', function() {
+    const event = document.createEvent('HTMLEvents');
+    event.initEvent('cookies:update', true, false);
+    document.querySelector('body').dispatchEvent(event);
+});
+</script>
 
 </body>
 
