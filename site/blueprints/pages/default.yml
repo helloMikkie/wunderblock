@@ -1,0 +1,22 @@
+title: Default
+
+fields:
+  heading:
+    type: text
+    width: 2/3
+  page_content:
+    label: Inhalte
+    type: blocks
+    fieldsets:
+      text: // Bezeichnung
+        label: Texts
+        type: group
+        fieldsets:
+          - subheadline
+          - large
+          - heading
+          - text
+          - list
+
+
+      

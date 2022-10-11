@@ -1,0 +1,51 @@
+Title: Die Wunderblock Stiftung
+
+----
+
+Heading: The Wunderblock Foundation
+
+----
+
+Featured: true
+
+----
+
+Text: [{"content":{"text":"<p>Englisch<\/p>"},"id":"aebd9945-117a-4e88-9799-a3af7709f49d","isHidden":false,"type":"text"}]
+
+----
+
+Download: 
+
+----
+
+Description: 
+
+----
+
+Content:
+
+- 
+  content:
+    text: '<p>Die Wunderblock Foundation wurde 2020 von Katharina Grosse gegründet. Ziel der gemeinnützigen Stiftung ist es, das Lebenswerk der Malerin langfristig und über ihr Ableben hinaus zu sichern, das Verständnis für ihr Werk und das Medium der Malerei zu vertiefen und herausragende Positionen zeitgenössischer Kunst und Kultur zu fördern.</p>'
+  id: e3953c9a-fb21-4246-95f5-d4bf87c1cc9a
+  isHidden: false
+  type: text
+- 
+  content:
+    text: '<p>Das Programm wird von Katharina Grosse konzipiert und von den Vorstandsmitglieder<em>innen betreut. Der Kreis der Freunde und Unterstützer wächst ständig und umfasst Aktivist</em>innen, Künstler<em>innen, Kunstliebhaber</em>innen, Kuratoren<em>innen, Wissenschaftler</em>innen, Schriftsteller*innen sowie eine Vielzahl von Persönlichkeiten, Institutionen und Unternehmen, die die Stiftung bei der Erfüllung ihrer Mission auf unterschiedlichste Weise unterstützen. </p>'
+  id: bca60b11-4792-471b-8946-c068335ca91f
+  isHidden: false
+  type: text
+- 
+  content:
+    location: kirby
+    image: [ ]
+    src: ""
+    alt: ""
+    caption: ""
+    link: ""
+    ratio: ""
+    crop: false
+  id: 8a9ef784-886e-4ffc-b16d-422065f6a4a9
+  isHidden: false
+  type: image

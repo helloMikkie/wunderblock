@@ -1,0 +1,79 @@
+
+@font-face {
+  font-family: "Prophet";
+  src: 
+url("../fonts/Prophet/ABCProphet-Medium.woff2") format("woff2"),
+  url("../fonts/Prophet/ABCProphet-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Alpina";
+  src: 
+url("../fonts/Alpina/GT-Alpina-Standard-Regular.woff2") format("woff2"),
+  url("../fonts/Alpina/GT-Alpina-Standard-Regular.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Alpina-italic";
+  src: 
+url("../fonts/Alpina/GT-Alpina-Standard-Regular-Italic.woff2") format("woff2"),
+  url("../fonts/Alpina/GT-Alpina-Standard-Regular-Italic.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+/* Global */
+
+*, html, body{
+font-family: "Alpina", sans-serif;
+}
+
+a{
+color: inherit;
+display: inline-block; 
+text-decoration: none;  
+}
+a:hover{
+-webkit-filter: blur(3px);
+filter: blur(3px);
+}
+ul{
+list-style: none;
+padding-left: 0 ;
+}
+
+h1, h2, h3, h4{
+font-weight: normal;
+line-height: 1.1; 
+}
+
+
+p{
+line-height: 1.125; 
+word-spacing: -0.06em; 
+}
+.f-sans{
+font-family: "Prophet", sans-serif; 
+}
+
+strong{
+font-family: "Prophet", sans-serif; 
+font-weight: normal;
+letter-spacing: -0.01em; 
+}
+em{
+  font-style: normal; 
+	font-family: "Alpina-italic", serif; 
+}
+figcaption{
+font-size: 0.8rem; 
+line-height: 1;
+letter-spacing: 0.02em; 
+
+padding-block: 0.5em; 
+border-bottom: 1px solid #222222; 
+}

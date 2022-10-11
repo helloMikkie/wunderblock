@@ -1,0 +1,6 @@
+name: Subheadline
+icon: text
+label: "{{subheadline}}"
+fields:
+  subheadline:
+    type: text

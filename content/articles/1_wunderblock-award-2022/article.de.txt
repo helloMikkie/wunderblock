@@ -1,0 +1,17 @@
+Title: Wunderblock Award 2022
+
+----
+
+Heading: Sam Zamrik wird der erste Wunderblock Award zuerkannt
+
+----
+
+Featured: true
+
+----
+
+Page-content: [{"content":{"location":"kirby","image":["wunderblock-2022.jpg"],"src":"","alt":"Wunderblock Award Troph\u00e4e","caption":"Der Wunderblock Award","link":"","ratio":"","crop":"false"},"id":"193ed75d-e7ec-498f-8ad6-a542f2dee777","isHidden":false,"type":"image"},{"content":{"text":"<p>Die\u00a0Wunderblock Foundation\u00a0vergibt in diesem Jahr ihre erste Auszeichnung - den mit 10.000 Euro dotierten <strong>Wunderblock Award.<\/strong> Preistr\u00e4ger ist der Lyriker \u2028<strong>Sam Zamrik<\/strong>.<\/p><p>Die Preisverleihung findet am 14. Oktober 2022 statt. Die Laudatio h\u00e4lt die Lyrikerin und \u00dcbersetzerin Sylvia Geist.<\/p>"},"id":"e29fa284-e2bd-4bc9-b785-6055ca5e3bd3","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Sam Zamrik<\/strong>, 26, geboren in Damaskus, ist Lyriker, \u00dcbersetzer und politischer Bildner. Er arbeitete als Bandmanager und Songtextschreiber im Rahmen der Underground Musikbewegung New Wave of Syrian Metal. Ver\u00f6ffentlicht wurden einzelne Texte von der <em>WIR MACHEN DAS<\/em>-Initiative <em>Weiter Schreiben<\/em> sowie in verschiedenen deutschen Zeitungen wie taz und Tagesspiegel. In mal barocken, mal lakonischen Bildern findet Sam Zamrik Ausdruck f\u00fcr Krieg und Flucht, f\u00fcr Heimatlosigkeit und Einsamkeit, das Nichtvorkommen und Nichtgesehenwerden. Im Oktober erscheint sein erster Gedichtband im Verlag Hanser Berlin (zweisprachig, Englisch\/Deutsch). Sam Zamrik lebt, schreibt und studiert in Berlin.<\/p>"},"id":"ebc25efd-dd60-4e5d-9791-1ad4a279fedb","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["sam-zamrick.jpg"],"src":"","alt":"Sam Zamrick Portrait","caption":"Sam Zamrick \u00a9Foro: Paula Winckler","link":"","ratio":"","crop":"false"},"id":"62e91600-2a47-41ff-89a6-3d0f6426ae88","isHidden":false,"type":"image"},{"content":{"large":"<p>The <em>Wunderblock Foundation<\/em> was established by Katharina Grosse with the aim of preserving and researching her life's work as well as promoting outstanding positions in contemporary art and culture. Based on Katharina Grosse's painterly practice and in resonance with her work, the Wunderblock Foundation promotes experimental thought and action and creates new spaces for interdisciplinary thinking.<\/p>"},"id":"88bdbe10-ce7d-4ebc-8bc8-f0fea108138b","isHidden":false,"type":"large"},{"content":{"text":"<p><strong>Pressekontakt: <\/strong><a href=\"mailto:text@wunderblock-foundation.org\" title=\"Kerstin Rieber\">Kristin Rieber<\/a><\/p>"},"id":"5963d3a4-ccc9-4f70-99e4-ef7adfde9625","isHidden":false,"type":"text"}]
+
+----
+
+Download: 

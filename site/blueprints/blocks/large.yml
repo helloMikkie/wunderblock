@@ -1,0 +1,9 @@
+name: Large
+icon: text
+label: "{{large}}"
+preview: large
+wysiwyg: true
+fields:
+  large:
+    type: writer
+    nodes: false
