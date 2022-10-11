@@ -17,6 +17,7 @@
   color: #000 !important;
   font-family: "Prophet", sans-serif !important;
 }
+
  .cc-allow{
   border: 3px solid #222222; 
   padding: 0.6em 1.5em; 
@@ -35,7 +36,10 @@
 
 
 }
-
+.cc-revoke:hover{
+  -webkit-filter: blur(3px);
+filter: blur(3px);
+}
 .cc-allow, .cc-deny{
   text-transform: uppercase; 
   letter-spacing: 0.03em; 
