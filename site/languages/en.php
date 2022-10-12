@@ -14,7 +14,7 @@ return [
         'spenden' => 'donate',
         'cookie' => 'Cookie Settings',
         'michnhokn.cookie-banner.title' => 'Configuration',
-        'michnhokn.cookie-banner.text' => 'To provide you with the best possible experience on our website, we use cookies. You can edit your setting at any time by clicking on the cookie in the bottom right corner. (link: datenschutz text: Privacy Policy)',
+        'michnhokn.cookie-banner.text' => 'You can edit your setting at any time by clicking on the cookie in the bottom left corner. (link: datenschutz text: Privacy Policy)',
         'michnhokn.cookie-banner.essentialText' => 'Essential',
         'michnhokn.cookie-banner.denyAll' => 'Deny all',
         'michnhokn.cookie-banner.acceptAll' => 'Accept all',

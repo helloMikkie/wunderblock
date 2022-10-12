@@ -14,7 +14,7 @@ return [
         'spenden' => 'spenden',
         'cookie' => 'Cookie Einstellungen',
         'michnhokn.cookie-banner.title' => 'Konfiguration',
-        'michnhokn.cookie-banner.text' => 'Um Ihnen das bestmögliche Erlebnis auf unserer Website zu bieten, verwenden wir Cookies. Sie können Ihre Einstellung jederzeit bearbeiten, indem Sie auf den Cookie in der linken unteren Ecke klicken.  (link: datenschutz text: Datenschutz)',
+        'michnhokn.cookie-banner.text' => 'Sie können Ihre Einstellung jederzeit bearbeiten, indem Sie auf Cookie Einstellungen in der linken unteren Ecke klicken.  (link: datenschutz text: Datenschutzerklärung)',
         'michnhokn.cookie-banner.essentialText' => 'Notwendige',
         'michnhokn.cookie-banner.denyAll' => 'Ablehnen',
         'michnhokn.cookie-banner.acceptAll' => 'Annehmen',
