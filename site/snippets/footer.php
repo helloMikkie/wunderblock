@@ -47,30 +47,10 @@
     </div>
 
 
-
-    <button id="edit-cookie" class="edit-button"><?= t('cookie') ?></button>
-
 </footer>
 
 <script src="/assets/js/mouse-move.js"></script>
 <script src="/assets/js/script.js"></script>
-<script src="/assets/js/cookie.js"></script>
-
-<?php snippet('cookie-modal', [
-  'assets' => true,
-  'features' => [
-    // 'mapbox' => 'custom.cookie-modal.mapbox',
-    'youtube' => 'custom.cookie-modal.youtube',
-    'vimeo' => 'custom.cookie-modal.vimeo'],
-]) ?>
-
-<script>
-document.querySelector('#edit-cookie').addEventListener('click', function() {
-    const event = document.createEvent('HTMLEvents');
-    event.initEvent('cookies:update', true, false);
-    document.querySelector('body').dispatchEvent(event);
-});
-</script>
 
 </body>
 

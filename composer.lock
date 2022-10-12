@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8c333d90ff2063a26c3e5b0a4c68761e",
+    "content-hash": "e33487fe1ff59ecc7550321da483fab3",
     "packages": [
         {
             "name": "claviska/simpleimage",
@@ -54,6 +54,38 @@
                 }
             ],
             "time": "2022-07-05T13:18:44+00:00"
+        },
+        {
+            "name": "fendinger/kirby3-consent-gate",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/fendinger/kirby3-consent-gate.git",
+                "reference": "f5b2522cdda1efce19158f7ae332575e96055a9b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/fendinger/kirby3-consent-gate/zipball/f5b2522cdda1efce19158f7ae332575e96055a9b",
+                "reference": "f5b2522cdda1efce19158f7ae332575e96055a9b",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fendinger",
+                    "email": "dev@fendinger.de"
+                }
+            ],
+            "description": "Kirby 3 Consent Gate - GDPR Compliant External Content Blocker",
+            "support": {
+                "issues": "https://github.com/fendinger/kirby3-consent-gate/issues",
+                "source": "https://github.com/fendinger/kirby3-consent-gate/tree/1.0.0"
+            },
+            "time": "2022-04-06T10:59:09+00:00"
         },
         {
             "name": "filp/whoops",

@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '3.7.5',
-        'version' => '3.7.5.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'ba61ba578b09270fa792f154d3d34b3f8a98aa00',
         'name' => 'getkirby/plainkit',
         'dev' => true,
     ),
@@ -17,6 +17,15 @@
             'install_path' => __DIR__ . '/../claviska/simpleimage',
             'aliases' => array(),
             'reference' => 'abd15ced313c7b8041d7d73d8d2398b4f2510cf1',
+            'dev_requirement' => false,
+        ),
+        'fendinger/kirby3-consent-gate' => array(
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../fendinger/kirby3-consent-gate',
+            'aliases' => array(),
+            'reference' => 'f5b2522cdda1efce19158f7ae332575e96055a9b',
             'dev_requirement' => false,
         ),
         'filp/whoops' => array(
@@ -47,12 +56,12 @@
             'dev_requirement' => false,
         ),
         'getkirby/plainkit' => array(
-            'pretty_version' => '3.7.5',
-            'version' => '3.7.5.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'ba61ba578b09270fa792f154d3d34b3f8a98aa00',
             'dev_requirement' => false,
         ),
         'laminas/laminas-escaper' => array(
