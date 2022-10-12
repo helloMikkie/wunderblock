@@ -37,7 +37,6 @@
         <a href="https://www.paypal.com/donate/?hosted_button_id=CL78MZYR69974" class="link-spenden"
             target="_blank"><?= t('spenden') ?></a>
     </div>
-    <button id="edit-cookie" class="edit-button"><?= t('cookie') ?></button>
 </footer>
 
 
