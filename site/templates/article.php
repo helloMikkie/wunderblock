@@ -21,7 +21,7 @@
         foreach ($files as $pdf) : ?>
         <li class=" download">
             <a href="<?= $pdf->url() ?>" target="_blank">
-                <?= $pdf->filename() ?>
+                <?= $pdf->title() ?>
                 <span>[<?= $pdf->niceSize() ?>]</span>
             </a>
         </li>

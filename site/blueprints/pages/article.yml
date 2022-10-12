@@ -1,4 +1,5 @@
 title: Article
+preset: page
 
 fields:
   heading:
@@ -26,7 +27,4 @@ fields:
         fieldsets:
           - image
           - video
-  download:
-    type: files
-
       
