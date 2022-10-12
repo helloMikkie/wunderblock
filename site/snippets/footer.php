@@ -54,6 +54,7 @@
 
 <script src="/assets/js/mouse-move.js"></script>
 <script src="/assets/js/script.js"></script>
+<script src="/assets/js/cookie.js"></script>
 
 <?php snippet('cookie-modal', [
   'assets' => true,
